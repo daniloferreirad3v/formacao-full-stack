@@ -6,6 +6,8 @@
 
 body {
     background-color: black;
+    background: url("https://i.imgur.com/aTTBwD8.png");
+    background-repeat: no-repeat;
 }
 
 nav {
